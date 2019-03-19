@@ -1,8 +1,14 @@
 # Network-Config-genration
 A python script for generating device config using YAML and JINJA2.
+
 This script is works both with python 2 and 3.
+
+
 Script Usage:
-Clone the script, YAML and JINJA2 files to your home directory.
-python3 generate_config.py -d "yaml file" -t "jinja2 file" -p "path of the template file
-Output of the script is stored with variable "name" declared in the YAML.
+
+1) Clone the script, YAML and JINJA2 files to your home directory.
+
+2) python3 generate_config.py -d "yaml file" -t "jinja2 file" -p "path of the template file
+
+3) Output of the script is stored with variable "name" declared in the YAML.
 
