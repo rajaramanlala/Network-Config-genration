@@ -1,0 +1,14 @@
+---
+name : iad37-toa-dist-1
+site : us6
+local_asn : 64705
+scan_rt : 807
+vrf:
+  name:
+    domvsm-toa-v803-1
+    ilomexamgmt-toa-v805-1
+    privateda-toa-v800-1
+    privatemt-toa-v801-1
+    publicmt-toa-v802-1
+    storage-toa-v806-1
+    tapefilermgmt-toa-v804-1
