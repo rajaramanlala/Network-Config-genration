@@ -1,32 +1,32 @@
-vrf context {{ site }}-domvsm-toa-v803-1
+vrf context {{ site }}-domvsm-v803-1
     address-family ipv4 unicast
        route-target import {{ local_asn }}:{{ scan_rt }}
        route-target export {{ local_asn }}:803
-vrf context {{ site }}-ilomexamgmt-toa-v805-1
+vrf context {{ site }}-ilomexamgmt-v805-1
     address-family ipv4 unicast
        route-target import {{ local_asn }}:{{ scan_rt }}
        route-target export {{ local_asn }}:805
-vrf context {{ site }}-privateda-toa-v800-1
+vrf context {{ site }}-privateda-v800-1
     address-family ipv4 unicast
        route-target import {{ local_asn }}:{{ scan_rt }}
        route-target export {{ local_asn }}:800
-vrf context  {{ site }}-privatemt-toa-v801-1
+vrf context  {{ site }}-privatemt-v801-1
     address-family ipv4 unicast
        route-target import {{ local_asn }}:{{ scan_rt }}
        route-target export {{ local_asn }}:801
-vrf context  {{ site }}-publicmt-toa-v802-1
+vrf context  {{ site }}-publicmt-v802-1
     address-family ipv4 unicast
        route-target import {{ local_asn }}:{{ scan_rt }}
        route-target export {{ local_asn }}:802
-vrf context {{ site }}-storage-toa-v806-1
+vrf context {{ site }}-storage-v806-1
     address-family ipv4 unicast
        route-target import {{ local_asn }}:{{ scan_rt }}
        route-target export {{ local_asn }}:806
-vrf context  {{ site }}-tapefilermgmt-toa-v804-1
+vrf context  {{ site }}-tapefilermgmt-v804-1
     address-family ipv4 unicast
        route-target import {{ local_asn }}:{{ scan_rt }}
        route-target export {{ local_asn }}:804
-vrf context us6-scan-toa-v807-1
+vrf context us6-scan-v807-1
     address-family ipv4 unicast
        route-target import {{ local_asn }}:800
        route-target import {{ local_asn }}:801
