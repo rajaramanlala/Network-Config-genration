@@ -6,7 +6,7 @@ scan_rt : 807
 vrf:
   name:
     domvsm-v803-1
-    ilomexamgmt-toa-v805-1
+    ilomexamgmt-v805-1
     privateda-v800-1
     privatemt-v801-1
     publicmt-v802-1
