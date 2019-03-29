@@ -16,7 +16,7 @@ args = vars(ap.parse_args())
 
 def config_renderer(datayml, template_file, template_location="~/"):
   #print "Arguments got are {0} and {1}".format(datayml, template_file)
-  device_data=yaml.load(open(datayml))
+  device_data=yaml.full_load(open(datayml))
   #print device_data
   env = Environment(loader = FileSystemLoader(template_location), trim_blocks=True, lstrip_blocks=True)
   template = env.get_template(template_file)
