@@ -9,7 +9,7 @@ interface port-channel{{ int.pc }}
     switchport trunk allowed vlan add {{ id }}
 {% endif %}
 {% endfor %}
-    spanning-tree port type normal
+    spanning-tree port type edge trunk
     speed {{ int.speed }}
     vpc {{ int.pc }}
 !
