@@ -180,174 +180,159 @@ interfaces:
     slotid: 1
     portid: 5
     type: trunk
-    pc: 103
+    pc: 104
    43:
     slotid: 1
     portid: 6
     type: trunk
-    pc: 104
+    pc: 105
    44:
     slotid: 1
     portid: 7
     type: trunk
-    pc: 105
+    pc: 106
    45:
     slotid: 1
     portid: 8
     type: trunk
-    pc: 106
+    pc: 107
    46:
     slotid: 1
     portid: 9
     type: trunk
-    pc: 107 
+    pc: 108 
    47:
     slotid: 1
     portid: 10
     type: trunk
-    pc: 108
-   48:
-    slotid: 1
-    portid: 10
-    type: trunk
     pc: 109
-   49:
+   48:
     slotid: 1
     portid: 11
     type: trunk
     pc: 110
-   50:
-    slotid: 1
-    portid: 11
-    type: trunk
-    pc: 111
-   51:
+   49:
     slotid: 1
     portid: 12
     type: trunk
-    pc: 112
-   52:
+    pc: 111
+   50:
     slotid: 1
     portid: 13
     type: trunk
-    pc: 113
-   53:
+    pc: 112
+   51:
     slotid: 1
     portid: 14
     type: trunk
+    pc: 113
+   52:
+    slotid: 1
+    portid: 15
+    type: trunk
     pc: 114
-   54:
-    slotid: 1
-    portid: 15
-    type: trunk
-    pc: 115
-   55:
-    slotid: 1
-    portid: 15
-    type: trunk
-    pc: 115
-   56:
+   53:
     slotid: 1
     portid: 16
     type: trunk
-    pc: 116
-   57:
+    pc: 115
+   54:
     slotid: 1
     portid: 17
     type: trunk
-    pc: 117
-   58:
+    pc: 116
+   55:
     slotid: 1
     portid: 18
     type: trunk
-    pc: 118
-   59:
+    pc: 117
+   56:
     slotid: 1
     portid: 19
     type: trunk
-    pc: 119
-   60:
+    pc: 118
+   57:
     slotid: 1
     portid: 20
     type: trunk
-    pc: 120
-   61:
+    pc: 119
+   58:
     slotid: 1
     portid: 21
     type: trunk
-    pc: 121
-   62:
+    pc: 120
+   59:
     slotid: 1
     portid: 22
     type: trunk
-    pc: 122
-   63:
+    pc: 121
+   60:
     slotid: 1
     portid: 23
     type: trunk
-    pc: 123
-   64:
+    pc: 122
+   61:
     slotid: 1
     portid: 24
     type: trunk
-    pc: 124
-   65:
+    pc: 123
+   62:
     slotid: 1
     portid: 25
     type: trunk
-    pc: 125
-   66:
+    pc: 124
+   63:
     slotid: 1
     portid: 26
     type: trunk
-    pc: 126
-   67:
+    pc: 125
+   64:
     slotid: 1
     portid: 27
     type: trunk
-    pc: 127
-   68:
+    pc: 126
+   65:
     slotid: 1
     portid: 28
     type: trunk
-    pc: 128
-   69:
+    pc: 127
+   66:
     slotid: 1
     portid: 29
     type: trunk
-    pc: 129
-   70:
+    pc: 128
+   67:
     slotid: 1
     portid: 30
     type: trunk
-    pc: 130
-   71:
+    pc: 129
+   68:
     slotid: 1
     portid: 31
     type: trunk
-    pc: 131
-   72:
+    pc: 130
+   69:
     slotid: 1
     portid: 32
     type: trunk
-    pc: 132
-   73:
+    pc: 131
+   70:
     slotid: 1
     portid: 33
     type: trunk
-    pc: 133
-   74:
+    pc: 132
+   71:
     slotid: 1
     portid: 34
     type: trunk
-    pc: 134
-   75:
+    pc: 133
+   72:
     slotid: 1
     portid: 35
     type: trunk
+    pc: 134
+   73:
+    slotid: 1
+    portid: 36
+    type: trunk
     pc: 135
-   76:
-     slotid: 1
-     portid: 36
-     type: trunk
-     pc: 136
