@@ -13,6 +13,6 @@ vlans:
 
 bgp:
   neighbors:
-    -  {'address': 10.55.207.202 , 'id': 10.55.207.67 , 'remeteas': 64703 , 'vrf': us6-domvsm-toa-v803-1}
-    -  {'address': 10.55.207.218 , 'id': 10.55.207.70 , 'remoteas': 64705 , 'vrf': us6-ilomexamgmt-toa-v801}
-    -  {'address': 10.55.207.178 , 'id': 10.55.207.72 , 'remoteas': 64704 , 'vrf': us6-privateda-toa-v800-1}
+    -  {'address': 10.55.207.202 , 'id': 10.55.207.67 , 'remeteas': 64703 , 'vrf': us6-domvsm-v803-1}
+    -  {'address': 10.55.207.218 , 'id': 10.55.207.70 , 'remoteas': 64705 , 'vrf': us6-ilomexamgmt-v801}
+    -  {'address': 10.55.207.178 , 'id': 10.55.207.72 , 'remoteas': 64704 , 'vrf': us6-privateda-v800-1}
